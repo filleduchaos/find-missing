@@ -1,0 +1,22 @@
+{
+  "name": "find-missing",
+  "version": "1.0.0",
+  "description": "Javascript project for Andela Home Sessions Day 3 (FindMissing)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine spec/findmissing-spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/princess-essien/find-missing.git"
+  },
+  "author": "Princess-Jewel Essien",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/princess-essien/find-missing/issues"
+  },
+  "homepage": "https://github.com/princess-essien/find-missing#readme",
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
